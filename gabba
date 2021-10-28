@@ -1,0 +1,4 @@
+System(gabba){
+Int name(x);
+System.out.println(x);
+}
