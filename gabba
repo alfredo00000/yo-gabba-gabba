@@ -1,4 +1,4 @@
-System(gabba){
+System(gay){
 Int name(x);
 System.out.println(x);
 }
